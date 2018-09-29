@@ -1,4 +1,3 @@
-# react-skeleton
+# The Ingredients Project
 
-Boilerplate code from Devslopes React course on Udemy.com.
- 
+A ReactJS project 
